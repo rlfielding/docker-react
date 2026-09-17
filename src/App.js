@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          We don't need no education!
+          I was changed on the feature branch!
         </a>
       </header>
     </div>
